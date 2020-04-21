@@ -1,0 +1,25 @@
+{
+  "name": "lamb",
+  "version": "1.0.0",
+  "description": "It's a small library that is made to create general states in react applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickfp93/Lamb.git"
+  },
+  "keywords": [
+    "react",
+    "lamb",
+    "redux",
+    "state"
+  ],
+  "author": "patrick <patrickfp93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickfp93/Lamb/issues"
+  },
+  "homepage": "https://github.com/patrickfp93/Lamb#readme"
+}
